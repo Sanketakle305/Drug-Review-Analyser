@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* --------------------------- navigation container ---------------------------*/
+.navigation_container {
+  background-color: #1DA1F2;
+}
+
+.navbar-light .navbar-brand {
+  color: #fff;
+}
+
+/* --------------------------- top container ----------------------------------*/
+.top_container {
+  padding-bottom: 25px;
+  background-color: #1DA1F2;
+  color: #fff;
+}
+
+.tweeteyes {
+  width: 400px ;
+  height: 130px ;
+  padding-bottom: 10px ;
+}
+
+.textbox_area {
+  border-radius: 10px;
+  border: none;
+}
+
+.button {
+  margin-top: 20px;
+}
+
+/* --------------------------- bottom container ---------------------------*/
+.bottom_container {
+  margin-top: 10px
+}
